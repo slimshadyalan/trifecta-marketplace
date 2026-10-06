@@ -1,0 +1,11 @@
+{
+  "name": "trifecta-tools",
+  "owner": { "name": "Trifecta" },
+  "plugins": [
+    {
+      "name": "trifecta-macro-filter",
+      "description": "AI macro research assistant: macro alignment scores, early-warning catalyst scans and central-bank rate probabilities. Research only, not financial advice.",
+      "source": "./plugins/trifecta-macro-filter"
+    }
+  ]
+}
